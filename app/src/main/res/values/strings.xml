@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">HotelProject</string>
+    <string name="Welcome_to_Hotel">Welcome to Hotel</string>
+    <string name="please_sign_in_to_continue">please sign in to continue!</string>
+    <string name="email">Email</string>
+    <string name="password_hint">********</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="name">Name</string>
+    <string name="number_phone">05********</string>
+    <string name="phone">Phone</string>
+    <string name="already_have_an_account">already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="visa_number">**** **** ****</string>
+    <string name="visa">Visa card</string>
+    <string name="date_of_birth">DOB</string>
+    <string name="home_page">Home Page</string>
+    <string name="rooms">Rooms</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="log_out">Log out</string>
+    <string name="go_to_home_page">Go directly to the app</string>
+    <string name="username">Username</string>
+    <string name="are_you_guest">Are you guest?</string>
+    <string name="location">
+        <br>
+            Location
+        </br>
+    </string>
+    <string name="about_us_desc">
+        <br>
+            Boasting a rooftop pool, the Palestine hotel is a luxurious base in Ramallah, so is ideally situated for discovering Ramallah with the House of Representatives within a 10-minute walk and the Al-Irsaal street is also located within a 25-minute walk away.
+        </br>
+    </string>
+
+    <string name="features">
+        <br>
+            Features
+        </br>
+    </string>
+    <string name="features_desc">
+        <br>
+Guests can soak up the outdoors on the terrace. Guests can take advantage of the recreational activities available, such as a Jacuzzi, a BBQ/picnic area, and a sauna.
+
+Each elegant room at the Palestine hotel includes bathrooms that feature bathrobes and showers. They provide tea and coffee-making facilities, wireless internet access, and a flat-screen TV.        </br>
+    </string>
+
+
+    <string name="food">
+        <br>
+            Food
+        </br>
+    </string>
+    <string name="food_desc">
+        <br>
+Those staying at Palestine hotel can sample Thai and Italian dishes at the in-house restaurant, conveniently located for those who want to stay nearby at mealtime. A buffet breakfast is served each morning and room service is available for guests traveling at a more leisurely pace. A selection of dining options can also be found in the surrounding area.     </br>
+    </string>
+
+    <string name="invoice">Invoice</string>
+    <string name="invoices">invoices</string>
+
+    <array name="receptionChoices">
+        <item>Rooms</item>
+        <item>Customers</item>
+        <item>Reservations</item>
+    </array>
+</resources>
